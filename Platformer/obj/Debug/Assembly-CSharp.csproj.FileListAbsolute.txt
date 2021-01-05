@@ -1,0 +1,2 @@
+C:\Users\Kpoke\Documents\Unity_projects\Unity-funMade\FantasyRpg2D\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Kpoke\Documents\Unity_projects\Unity-funMade\FantasyRpg2D\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
